@@ -11,4 +11,4 @@ Use the following links to get acquainted with the project.
 
 
 **Issue Report Format**
-Please follow the format_Issue.md to report an issue. Specify the names, type of issues, OS system and particular bugs or question
+Please follow the [Issue_format](format_issue.md)  to report an issue. Specify the names, type of issues, OS system and particular bugs or question
